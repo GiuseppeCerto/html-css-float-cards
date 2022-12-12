@@ -28,6 +28,7 @@ div h1,
     float: left;
     margin-right: 45px;
     margin-bottom: 20px;
+
 }
 
 .clearfix::after {
@@ -46,3 +47,14 @@ div h1,
     height: 100%;
 }
 
+.name{
+    color: white;
+    display: inline;
+    padding: 50px;
+}
+
+.email{
+    color: blueviolet;
+    display: inline-block;
+
+}
